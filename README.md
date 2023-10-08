@@ -1,4 +1,4 @@
-### Olá eu 👋
+### Olá, eu me chamo Thiago Greiner e seja bem vindo ao meu perfil 👋
 
 - 🔭 Hoje trabalho com Front-end
 - 🌱 Estudando React
