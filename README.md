@@ -4,8 +4,10 @@
 - 🌱 Estudando React, C# e Java
 
 <div>
-  <a href="https://github.com/thiagogreiner">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/?username=thiagogreiner&show_icons=true&theme=dark&include_all_commits=true&counts"/>
+  <a href="https://github.com/ThiagoGreiner">
+  <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=ThiagoGreiner&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoGreiner&layout=compact&langs_count=7&theme=react" />
+  <img align="center" width="148" height="180" src="https://media1.tenor.com/images/68e8337fb4eb7e40645d832c64762a8b/tenor.gif?itemid=19443613">
 </div>
 
 <div style="display: inline_block"><br>
@@ -27,3 +29,11 @@
   <a href="https://www.linkedin.com/in/thiagogreiner/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
    <a href="https://wa.me/5551997044274?text=Ol%C3%A1+Thiago" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
 </div>
+
+
+
+  ![Snake animation](https://github.com/ThiagoGreiner/ThiagoGreiner/blob/output/github-contribution-grid-snake.svg)
+ 
+</div>
+ 
+[![readme](https://github-readme-stats.vercel.app/api/pin/?username=ELLEN2121&repo=ELLEN2121&theme=react)](https://github.com/ELLEN2121/ELLEN2121)
