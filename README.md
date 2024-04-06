@@ -1,7 +1,7 @@
 ### Olá, eu me chamo Thiago Greiner e seja bem vindo ao meu perfil 👋
 
 - 🔭 Hoje trabalho com Front-end
-- 🌱 Estudando React, C# e Java
+- 🌱 Estudando React
 
 <div>
   <a href="https://github.com/ThiagoGreiner">
