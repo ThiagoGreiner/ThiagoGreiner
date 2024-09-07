@@ -3,11 +3,9 @@
 - 🔭 Hoje trabalho com Front-end
 - 🌱 Estudando React
 
-<div>
-  <a href="https://github.com/ThiagoGreiner">
-  <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=ThiagoGreiner&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoGreiner&layout=compact&langs_count=7&theme=react" />
-</div>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ThiagoGreiner&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF&hide_title=true)
+
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ThiagoGreiner&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Thiago-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
