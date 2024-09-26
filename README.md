@@ -51,15 +51,15 @@
 
 <p><strong>Minhas Ferramentas</strong></p>
 
-<img align="center" alt="VsCode" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
+<img alt="VsCode" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
 <img width="12" />
-<img align="center" src="https://skillicons.dev/icons?i=github" height="40" alt="Github"/>
+<img src="https://skillicons.dev/icons?i=github" height="40" alt="Github"/>
 <img width="12" />
-<img align="center" src="https://raw.githubusercontent.com/Joaommsp/skill-icons/main/icons/Notion-Dark.svg" height="40" alt="Notion"/>
+<img src="https://raw.githubusercontent.com/Joaommsp/skill-icons/main/icons/Notion-Dark.svg" height="40" alt="Notion"/>
 <img width="12" />
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" alt="windows8"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" alt="windows8"/>
 <img width="12" />
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux"/>
 
 #
 
