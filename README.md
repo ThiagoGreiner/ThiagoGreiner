@@ -5,7 +5,7 @@
 <ul>
   <li>🚩 Gravataí</li>
   <li>📚 Formando em Sistemas da Informação</li>
-  <li>🌱 Estudando React, Python e TypeScript</li>
+  <li>🌱 Estudando React e SASS</li>
   <li>💻 Futuro desenvolvedor Full stak</li>
 </ul>
 
