@@ -30,17 +30,15 @@
 <p><strong>Minhas Técnologias</strong></p>
 
 <div style="display: inline_block">
-  <img align="center" alt="HTML" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="HTML" height="40" src="https://skillicons.dev/icons?i=html&theme=dark">
   <img width="12" />
-  <img align="center" alt="CSS" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="HTML" height="40" src="https://skillicons.dev/icons?i=css&theme=dark">
   <img width="12" />
-  <img align="center" alt="Js" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="HTML" height="40" src="https://skillicons.dev/icons?i=js&theme=dark">
   <img width="12" />
-  <img align="center" alt="Ts" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="HTML" height="40" src="https://skillicons.dev/icons?i=react&theme=dark">
   <img width="12" />
-  <img align="center" alt="React" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img width="12" />
-  <img align="center" alt="Python" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+  <img align="center" alt="HTML" height="40" src="https://skillicons.dev/icons?i=py&theme=dark">
   <img width="12" />
   <img align="center" alt="MySQL" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
   <img width="12" />
