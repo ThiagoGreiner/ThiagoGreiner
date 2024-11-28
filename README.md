@@ -30,19 +30,19 @@
 <p><strong>Minhas Técnologias</strong></p>
 
 <div style="display: inline_block">
-  <img align="center" alt="HTML" height="40" src="https://skillicons.dev/icons?i=html&theme=dark">
+  <img align="center" alt="HTML" height="45" src="https://skillicons.dev/icons?i=html&theme=dark">
   <img width="12" />
-  <img align="center" alt="HTML" height="40" src="https://skillicons.dev/icons?i=css&theme=dark">
+  <img align="center" alt="CSS" height="45" src="https://skillicons.dev/icons?i=css&theme=dark">
   <img width="12" />
-  <img align="center" alt="HTML" height="40" src="https://skillicons.dev/icons?i=js&theme=dark">
+  <img align="center" alt="JavaScript" height="45" src="https://skillicons.dev/icons?i=js&theme=dark">
   <img width="12" />
-  <img align="center" alt="HTML" height="40" src="https://skillicons.dev/icons?i=react&theme=dark">
+  <img align="center" alt="React" height="45" src="https://skillicons.dev/icons?i=react&theme=dark">
   <img width="12" />
-  <img align="center" alt="HTML" height="40" src="https://skillicons.dev/icons?i=py&theme=dark">
+  <img align="center" alt="Python" height="45" src="https://skillicons.dev/icons?i=py&theme=dark">
   <img width="12" />
-  <img align="center" alt="MySQL" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+  <img align="center" alt="MySQL" height="45" src="https://skillicons.dev/icons?i=mysql&theme=dark">
   <img width="12" />
-  <img align="center" alt="Git" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+  <img align="center" alt="GIT" height="45" src="https://skillicons.dev/icons?i=git&theme=dark">
 </div>
 
 #
@@ -50,15 +50,17 @@
 <p><strong>Minhas Ferramentas</strong></p>
 
 <div>
-  <img align="center" alt="VsCode" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
+  <img align="center" alt="Visual Studio Code" height="45" src="https://skillicons.dev/icons?i=vscode&theme=dark">
   <img width="12" />
-  <img align="center" height="40" alt="Github" src="https://skillicons.dev/icons?i=github"/>
+  <img align="center" alt="Github" height="45" src="https://skillicons.dev/icons?i=github&theme=dark">
   <img width="12" />
-  <img align="center" height="40" alt="Notion" src="https://raw.githubusercontent.com/Joaommsp/skill-icons/main/icons/Notion-Dark.svg"/>
+  <img align="center" alt="Notion" height="45" src="https://skillicons.dev/icons?i=notion&theme=dark">
   <img width="12" />
-  <img align="center" height="40" alt="windows8" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg"/>
+  <img align="center" alt="Figma" height="45" src="https://skillicons.dev/icons?i=figma&theme=dark">
   <img width="12" />
-  <img align="center" height="40" alt="Linux" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
+  <img align="center" alt="Windows" height="45" src="https://skillicons.dev/icons?i=windows&theme=dark">
+  <img width="12" />
+  <img align="center" alt="Linux" height="45" src="https://skillicons.dev/icons?i=linux&theme=dark">
 </div>
 
 #
