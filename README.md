@@ -11,6 +11,13 @@
 
 #
 
+<p><strong>Sobre mim</strong></p>
+
+<p>Sou estudante de Sistemas de Informação e, atualmente, trabalho na área logística, mas estou em transição para o desenvolvimento de software. Minha paixão pela tecnologia vem da minha vontade de automatizar processos e da incrível oportunidade que a programação oferece de criar soluções que possam realmente ajudar as pessoas e transformar o mundo.</p>
+<p>Estou focado em me especializar como desenvolvedor frontend, com o objetivo de me tornar um desenvolvedor fullstack.</p>
+
+#
+
 <p><strong>Contatos</strong></p>
 
 <div>
