@@ -50,6 +50,8 @@
   <img align="center" alt="MySQL" height="45" src="https://skillicons.dev/icons?i=mysql&theme=dark">
   <img width="12" />
   <img align="center" alt="GIT" height="45" src="https://skillicons.dev/icons?i=git&theme=dark">
+  <img width="12" />
+  <img align="center" alt="GIT" height="45" src="https://skillicons.dev/icons?i=bootstrap&theme=dark">
 </div>
 
 #
